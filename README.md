@@ -89,4 +89,23 @@ Cucumber ile BDD formatında yazılan case'ler için TestNG anatasyonları kulla
 
 [ValidateSpecialCharForNumberTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateSpecialCharForNumberTestNG.java)
 
+## Images for the Results
+![1](https://user-images.githubusercontent.com/105527159/183265176-d6126287-2dd2-430c-8264-87c2aef0b76e.PNG)
 
+![2](https://user-images.githubusercontent.com/105527159/183265210-b97a16a6-8c77-4743-a224-ea41b156ca1d.PNG)
+
+![3](https://user-images.githubusercontent.com/105527159/183265221-d861c045-b77e-4eb1-b530-5106967fc3e4.PNG)
+
+![4](https://user-images.githubusercontent.com/105527159/183265229-34af7e94-e539-4853-827f-c7c7d4f176f6.PNG)
+
+![5](https://user-images.githubusercontent.com/105527159/183265235-789c3838-ee8d-4541-8510-e40adcf6b044.PNG)
+
+![6](https://user-images.githubusercontent.com/105527159/183265240-e4ae0425-44d9-47dc-b0c7-60699a1c82e6.PNG)
+
+![7](https://user-images.githubusercontent.com/105527159/183265247-3a3c4c53-0d9f-4cce-a639-ed9982f31ada.PNG)
+
+![8](https://user-images.githubusercontent.com/105527159/183265269-a0baa34b-86f0-4faf-ab67-0e10c71c8091.PNG)
+
+![9](https://user-images.githubusercontent.com/105527159/183265278-27d4cdb9-9814-43dc-bec6-d149de77697f.PNG)
+
+![10](https://user-images.githubusercontent.com/105527159/183265316-bee1993c-1f21-4693-8f02-aea04b93a339.PNG)
