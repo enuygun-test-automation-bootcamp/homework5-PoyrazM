@@ -4,7 +4,7 @@ Appium için verilen her bir test case için test otomasyonu yazım işlemleri y
 
 ### Test Cases
 
-Ödevde Cucumber Framework'u sadece test case'lerin yazımı için kullanılmıştır.BaseRunner ve test case'ler için o yüzden StepDefinitions tanımlanmamıştır. Verilen test case'ler aşağıdaki gibidir.
+Ödevde Cucumber Framework'u sadece test case'lerin yazımı için kullanılmıştır. O yüzden BaseRunner ve StepDefinitions tanımlanmamıştır. Verilen test case'ler aşağıdaki gibidir.
 
 ```bash
 #CASE-1#
