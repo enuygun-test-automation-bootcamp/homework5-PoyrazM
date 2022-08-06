@@ -1,1 +1,64 @@
-# README DOLDURULACAK DAHA BİTMEDİİİ
+# Appium Tests - Bootcamp Homework 5 
+
+Appium için verilen her bir test case için test otomasyonu yazım işlemleri yapılmıştır.
+
+## Test Cases
+
+Ödevde Cucumber Framework'u sadece test case'lerin yazımı için kullanılmıştır.BaseRunner ve test case'ler için o yüzden StepDefinitions tanımlanmamıştır. Verilen test case'ler aşağıdaki gibidir.
+
+```bash
+#CASE-1#
+User checks title whether it is "Add Contact"
+
+#Case-2#
+User adds a work account successfully
+User checks required fields for add account page
+User check the account whether it is correct
+
+#Case-3#
+
+User adds a mobile account successfully
+User checks required fields for add account page
+User check the account whether it is correct
+
+#Case-4#
+User adds a home acocunt successfully
+User checks required fields for add account page
+User check the account whether it is correct
+User adds a home account with home email successfully
+
+#Case-5#
+User checks number limit for contact phone field
+
+#Case-6#
+User checks email format for contact email field
+
+#Case-7#
+User checks whether contact name accepts number and digit
+
+#Case-8#
+User checks special characters limit for contact phone field
+
+#Case-9#
+User checks speacial characters limit for contact name
+```
+
+## Cucumber Test Cases
+
+[validateAddContactTitle](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateAddContactTitle.feature)
+
+[validateWorkAccount](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateWorkAccount.feature)
+
+[validateMobileAccount.](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateMobileAccount.feature)
+
+[validateHomeAccount](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateHomeAccount.feature)
+
+[validateNumberLimitPhoneField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateNumberLimitPhone.feature)
+
+[validateSpecialCharForEmail](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateSpecialCharForEmail.feature)
+
+[validateSpecialCharForNameField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateSpecialCharForName.feature)
+
+[validateSpecialCharForNumberField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateSpecialCharForNumber.feature)
+
+[validateNumberToNameField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateNumberToName.feature)
