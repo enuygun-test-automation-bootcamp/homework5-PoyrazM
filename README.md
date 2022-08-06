@@ -56,13 +56,15 @@ User checks speacial characters limit for contact name
 
 [validateNumberLimitPhoneField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateNumberLimitPhone.feature)
 
+[validateNumberToNameField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateNumberToName.feature)
+
 [validateSpecialCharForEmail](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateSpecialCharForEmail.feature)
 
 [validateSpecialCharForNameField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateSpecialCharForName.feature)
 
 [validateSpecialCharForNumberField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateSpecialCharForNumber.feature)
 
-[validateNumberToNameField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateNumberToName.feature)
+
 
 ### TestNG Test Classes
 Cucumber ile BDD formatında yazılan case'ler için TestNG anatasyonları kullanılarak Test classları oluşturulmuştur.
