@@ -16,7 +16,6 @@ User checks required fields for add account page
 User check the account whether it is correct
 
 #Case-3#
-
 User adds a mobile account successfully
 User checks required fields for add account page
 User check the account whether it is correct
