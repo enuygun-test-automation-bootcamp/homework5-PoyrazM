@@ -69,7 +69,7 @@ User checks speacial characters limit for contact name
 ### TestNG Test Classes
 Cucumber ile BDD formatında yazılan case'ler için TestNG anatasyonları kullanılarak Test classları oluşturulmuştur.
 
-[JsonCapabilityCheck](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/JsonValidateTestNG.java)
+[JsonCapabilityCheckTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/JsonValidateTestNG.java)
 
 [ValidateAddContactTitleTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateAddContactTitleTestNG.java)
 
@@ -79,7 +79,7 @@ Cucumber ile BDD formatında yazılan case'ler için TestNG anatasyonları kulla
 
 [ValidateHomeAccountTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateHomeAccountTestNG.java)
 
-[ValidateNumberLimitPhoneField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateNumberLimitPhone.java)
+[ValidateNumberLimitPhoneFieldTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateNumberLimitPhone.java)
 
 [ValidateNumberToNameTextTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateNumberToNameTextTestNG.java)
 
