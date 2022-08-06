@@ -1,6 +1,6 @@
 ## Appium Tests - Patika.dev & Enuygun Bootcamp Homework 5 
 
-Appium için verilen her bir test case için test otomasyonu yazım işlemleri yapılmıştır.
+Appium için verilen her bir test case için test otomasyonu yazım işlemleri yapılmıştır. Bütün Page ve SetUp kodları src/test/java ve src/test/resources altındadır.
 
 ### Test Cases
 Otomasyonunu ve manuel testlerini yapmamız beklenen test caseler aşağıdaki gibidir.
