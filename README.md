@@ -1,8 +1,8 @@
-# Appium Tests - Bootcamp Homework 5 
+## Appium Tests - Patika.dev & Enuygun Bootcamp Homework 5 
 
 Appium için verilen her bir test case için test otomasyonu yazım işlemleri yapılmıştır.
 
-## Test Cases
+### Test Cases
 
 Ödevde Cucumber Framework'u sadece test case'lerin yazımı için kullanılmıştır.BaseRunner ve test case'ler için o yüzden StepDefinitions tanımlanmamıştır. Verilen test case'ler aşağıdaki gibidir.
 
@@ -16,6 +16,7 @@ User checks required fields for add account page
 User check the account whether it is correct
 
 #Case-3#
+
 User adds a mobile account successfully
 User checks required fields for add account page
 User check the account whether it is correct
@@ -42,7 +43,7 @@ User checks special characters limit for contact phone field
 User checks speacial characters limit for contact name
 ```
 
-## Cucumber Test Cases
+### Cucumber Test Cases
 
 [validateAddContactTitle](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateAddContactTitle.feature)
 
@@ -61,3 +62,28 @@ User checks speacial characters limit for contact name
 [validateSpecialCharForNumberField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateSpecialCharForNumber.feature)
 
 [validateNumberToNameField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateNumberToName.feature)
+
+### TestNG Test Classes
+Cucumber ile BDD formatında yazılan case'ler için TestNG anatasyonları kullanılarak Test classları oluşturulmuştur.
+
+[JsonCapabilityCheck](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/JsonValidateTestNG.java)
+
+[ValidateAddContactTitleTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateAddContactTitleTestNG.java)
+
+[ValidateWorkAccountTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateWorkAccountTestNG.java)
+
+[ValidateMobileAccountTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateMobileAccountTestNG.java)
+
+[ValidateHomeAccountTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateHomeAccountTestNG.java)
+
+[ValidateNumberLimitPhoneField](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateNumberLimitPhone.java)
+
+[ValidateNumberToNameTextTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateNumberToNameTextTestNG.java)
+
+[ValidateSpecialCharForEmailTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateSpecialCharForEmailTestNG.java)
+
+[ValidateSpecialCharForNameTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateSpecialCharForNameTestNG.java)
+
+[ValidateSpecialCharForNumberTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/ValidateSpecialCharForNumberTestNG.java)
+
+
