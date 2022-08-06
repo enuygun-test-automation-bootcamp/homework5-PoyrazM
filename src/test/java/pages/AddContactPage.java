@@ -11,7 +11,7 @@ import org.testng.Assert;
 import java.util.ArrayList;
 import java.util.List;
 
-// AddContactPage de ise bu sayfadaki bütün elementler tanımlanmıştır sırasıyla
+// AddContactPage de ise bu sayfadaki bütün elementler ve bazı operasyonlar tanımlanmıştır sırasıyla
 
 @Getter @Setter
 public class AddContactPage extends BasePage{
