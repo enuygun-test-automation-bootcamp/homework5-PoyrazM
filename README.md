@@ -44,7 +44,7 @@ User checks speacial characters limit for contact name
 ```
 
 ### Cucumber Test Cases
-Ödevde Cucumber Framework'u sadece test case'lerin yazımı için kullanılmıştır. O yüzden BaseRunner ve StepDefinitions tanımlanmamıştır. Verilen test case'ler aşağıdaki gibidir.
+Ödevde istenildiği gibi Cucumber Framework'u sadece test case'lerin yazımı için kullanılmıştır. O yüzden BaseRunner ve StepDefinitions tanımlanmamıştır. Verilen test case'ler aşağıdaki gibidir.
 
 [validateAddContactTitle](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateAddContactTitle.feature)
 
