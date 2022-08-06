@@ -3,8 +3,8 @@
 Appium için verilen her bir test case için test otomasyonu yazım işlemleri yapılmıştır.
 
 ### Test Cases
+Otomasyonunu ve manuel testlerini yapmamız beklenen test caseler aşağıdaki gibidir.
 
-Ödevde Cucumber Framework'u sadece test case'lerin yazımı için kullanılmıştır. O yüzden BaseRunner ve StepDefinitions tanımlanmamıştır. Verilen test case'ler aşağıdaki gibidir.
 
 ```bash
 #CASE-1#
@@ -44,6 +44,7 @@ User checks speacial characters limit for contact name
 ```
 
 ### Cucumber Test Cases
+Ödevde Cucumber Framework'u sadece test case'lerin yazımı için kullanılmıştır. O yüzden BaseRunner ve StepDefinitions tanımlanmamıştır. Verilen test case'ler aşağıdaki gibidir.
 
 [validateAddContactTitle](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/resources/features/validateAddContactTitle.feature)
 
