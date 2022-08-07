@@ -67,7 +67,7 @@ User checks speacial characters limit for contact name
 
 
 ### TestNG Test Classes
-Cucumber ile BDD formatında yazılan case'ler için TestNG anatasyonları kullanılarak Test classları oluşturulmuştur.
+Cucumber ile BDD formatında yazılan case'ler için TestNG notasyonları kullanılarak Test classları oluşturulmuştur.
 
 [JsonCapabilityCheckTestNG](https://github.com/enuygun-test-automation-bootcamp/homework5-PoyrazM/blob/main/src/test/java/tests/JsonValidateTestNG.java)
 
